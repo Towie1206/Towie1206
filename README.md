@@ -2,7 +2,7 @@
 
 🎮 Newbie Indie Game Developer  
 💻 Unity & C# Developer  
-🌱 Currently learning game architecture and gameplay systems
+🌱 Currently learning game architecture, gameplay systems and finite state machine
 
 ## 🚀 Skills
 
@@ -16,6 +16,4 @@
 
 ## 📌 Projects
 
-- 🎮 Farming Coding Game
-- 🧑‍💼 HRMS Java Swing App
-- ⚔️ Unity Combat Prototype
+
