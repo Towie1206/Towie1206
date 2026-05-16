@@ -17,3 +17,10 @@
 ## 📌 Projects
 
 
+## 🌐 Socials
+
+Discord: ang_bangf
+
+<a href="[https://youtube.com/](https://www.youtube.com/@notEqual324)">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
