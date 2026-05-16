@@ -22,15 +22,15 @@
 Discord: ang_bangf
 
 <p align="left">
-  <a href="[https://instagram.com/your_ig](https://www.instagram.com/ang_bangf/)">
+  <a href="https://instagram.com/your_ig](https://www.instagram.com/ang_bangf/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="[https://facebook.com/](https://www.facebook.com/anhbang.buonba/?locale=vi_VN)">
+  <a href="https://facebook.com/](https://www.facebook.com/anhbang.buonba/?locale=vi_VN">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="48"/>
   </a>
 
-  <a href="[https://youtube.com/](https://www.youtube.com/@notEqual324)">
+  <a href="https://youtube.com/](https://www.youtube.com/@notEqual324">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="48"/>
   </a>
 </p>
