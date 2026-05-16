@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Bang
 
-<!--
-**Towie1206/Towie1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Newbie Indie Game Developer  
+💻 Unity & C# Developer  
+🌱 Currently learning game architecture and gameplay systems
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,java,git,github,vscode)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Towie1206&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Towie1206&theme=tokyonight)
+
+## 📌 Projects
+
+- 🎮 Farming Coding Game
+- 🧑‍💼 HRMS Java Swing App
+- ⚔️ Unity Combat Prototype
