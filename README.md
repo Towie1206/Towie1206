@@ -2,7 +2,7 @@
 
 🎮 Newbie Indie Game Developer  
 💻 Unity & C# Developer  
-🌱 Currently learning game architecture, gameplay systems and finite state machine
+🌱 Exploring Unity, gameplay programming and game systems
 
 ## 🚀 Skills
 
