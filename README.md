@@ -14,9 +14,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Towie1206&theme=tokyonight)
 
-## 📌 Projects
-
-
 ## 🌐 Connect with me
 
 Discord: ang_bangf
