@@ -6,7 +6,7 @@
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,java,cpp,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,java,cpp,github,visualstudio)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
