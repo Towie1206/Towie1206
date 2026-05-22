@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Towie1206&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Towie1206&theme=tokyonight)
 
