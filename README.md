@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Bang!%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Unity%20Game%20Developer%20%7C%20Indie%20Dev%20in%20Progress&descAlignY=56&descSize=18" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=🎮+Newbie+Indie+Game+Developer;💻+Unity+%26+C%23+Enthusiast;🌱+Learning+Gameplay+Systems+%26+Design;🚀+Building+cool+games+one+bug+at+a+time!;🐛+It's+not+a+bug%2C+it's+a+feature..." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Bang!%20👋&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Unity%20Game%20Developer%20%7C%20Indie%20Dev%20in%20Progress%20%7C%20Hanoi%2C%20Vietnam%20🇻🇳&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
 <br/>
@@ -19,8 +15,8 @@
 ```csharp
 public class Bang : GameDeveloper
 {
-    public string Name       => "Nguyễn Công Bằng";
-    public string Alias      => "Bangf / Towie";
+    public string Name       => "Nguyễn Anh Bằng";
+    public string Alias      => "Bang / Towie";
     public string Location   => "Hanoi, Vietnam 🇻🇳";
     public string Role       => "Newbie Indie Game Developer";
     public string[] Learning => { "Unity", "C#", "Game Systems", "OOP" };
@@ -37,21 +33,27 @@ public class Bang : GameDeveloper
   <img src="https://skillicons.dev/icons?i=unity,cs,java,cpp,github,visualstudio&perline=6" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-Primary%20Language-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-Game%20Engine-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/itch.io-Published-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Towie1206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Towie1206&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Towie1206&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Towie1206&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Towie1206&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Towie1206&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -79,10 +81,6 @@ public class Bang : GameDeveloper
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
