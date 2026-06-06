@@ -19,8 +19,8 @@
 ```csharp
 public class Bang : GameDeveloper
 {
-    public string Name       => "Nguyễn Anh Bằng";
-    public string Alias      => "Bang / Towie";
+    public string Name       => "Nguyễn Công Bằng";
+    public string Alias      => "Bangf / Towie";
     public string Location   => "Hanoi, Vietnam 🇻🇳";
     public string Role       => "Newbie Indie Game Developer";
     public string[] Learning => { "Unity", "C#", "Game Systems", "OOP" };
