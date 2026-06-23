@@ -20,7 +20,6 @@ public class Bang : GameDeveloper
     public string Location   => "Hanoi, Vietnam 🇻🇳";
     public string Role       => "Newbie Indie Game Developer";
     public string Goal       => "Make a stupid game until I die of poverty";
-    public bool   OpenToCollab => true;
 }
 ```
 
