@@ -34,19 +34,9 @@
   "cv": "",
   "socials": [
     {
-      "type": "website",
-      "url": "",
-      "label": ""
-    },
-    {
       "type": "email",
       "url": "mailto:ncongbang2006@gmail.com",
       "label": "ncongbang2006@gmail.com"
-    },
-    {
-      "type": "linkedin",
-      "url": "",
-      "label": ""
     },
     {
       "type": "github",
@@ -90,11 +80,9 @@
     "Figma"
   ],
   "spotlight": [
-    "",
-    ""
-  ],
-  "feeds": [
-    ""
+    "LastShift",
+    "GUT-FEELING",
+    "Quest_Adventure"
   ],
   "quotes": [
     "dry",
