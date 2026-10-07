@@ -1,9 +1,9 @@
 {
-  "username": "THAY_BANG_USERNAME_CUA_BAN",
+  "username": "Towie1206",
   "layout": "default",
   "theme": "solo_leveling",
   "activity": "arise",
-  "timezone": "Asia/Ho_Chi_Minh",
+  "timezone": "Asia/Ha_Noi",
   "icons": "brand",
   "motion": "full",
   "arsenal": [
@@ -17,8 +17,8 @@
     "TailwindCSS"
   ],
   "socials": [
-    { "type": "linkedin", "url": "https://linkedin.com/in/your-profile", "label": "LinkedIn" },
-    { "type": "facebook", "url": "https://facebook.com/your-profile", "label": "Facebook" },
-    { "type": "email", "url": "mailto:email-cua-ban@gmail.com", "label": "Email" }
+    { "type": "linkedin", "url": "https://www.linkedin.com/in/c%C3%B4ng-b%E1%BA%B1ng-nguy%E1%BB%85n-821565332/", "label": "LinkedIn" },
+    { "type": "facebook", "url": "https://www.facebook.com/anhbang.buonba/?locale=vi_VN", "label": "Facebook" },
+    { "type": "email", "url": "mailto:ncongbang2006@gmail.com", "label": "Email" }
   ]
 }
