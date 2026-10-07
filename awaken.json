@@ -1,0 +1,24 @@
+{
+  "username": "THAY_BANG_USERNAME_CUA_BAN",
+  "layout": "default",
+  "theme": "solo_leveling",
+  "activity": "arise",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "icons": "brand",
+  "motion": "full",
+  "arsenal": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Docker",
+    "Git",
+    "TailwindCSS"
+  ],
+  "socials": [
+    { "type": "linkedin", "url": "https://linkedin.com/in/your-profile", "label": "LinkedIn" },
+    { "type": "facebook", "url": "https://facebook.com/your-profile", "label": "Facebook" },
+    { "type": "email", "url": "mailto:email-cua-ban@gmail.com", "label": "Email" }
+  ]
+}
