@@ -6,7 +6,7 @@
 
 [Email](mailto:ncongbang2006@gmail.com) · [itch.io](https://towie1206.itch.io/)
 <br>
-YouTube: [Bill Dev](https://www.youtube.com/@BillTheDev) · [Facebook](https://www.facebook.com/anhbang.buonba) · [Instagram](https://www.instagram.com/ang_bangf/) · [Discord](https://discord.com/users/461885838071037997)
+YouTube: [Just Towie](https://www.youtube.com/@notTowie1012) · [Facebook](https://www.facebook.com/anhbang.buonba) · [Instagram](https://www.instagram.com/ang_bangf/) · [Discord](https://discord.com/users/461885838071037997)
 
 </div>
 
