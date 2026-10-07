@@ -2,8 +2,8 @@ name: Awaken
 
 on:
   schedule:
-    - cron: "10 17 * * *" # Chạy lúc 00:10 sáng (Giờ Việt Nam UTC+7) mỗi ngày
-  workflow_dispatch:      # Nút bấm để chạy thủ công bất cứ lúc nào
+    - cron: "10 17 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
     paths: [awaken.json]
