@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/activity-light.svg"><img src="awaken/activity-dark.svg" width="100%" alt="Towie1206: shadow extraction"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/activity-light.svg"><img src="awaken/activity-dark.svg" width="100%" alt="Towie1206: dungeon raid"></picture>
 </p>
 
 <p align="center">

@@ -33,38 +33,38 @@
 <symbol id="i-brand:C#" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z"/></symbol><symbol id="i-brand:ShaderLab" viewBox="0 0 24 24"><path fill-rule="evenodd" d="m12.9288 4.2939 3.7997 2.1929c.1366.077.1415.2905 0 .3675l-4.515 2.6076a.4192.4192 0 0 1-.4246 0L7.274 6.8543c-.139-.0745-.1415-.293 0-.3675l3.7972-2.193V0L1.3758 5.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148 2.6076a.4252.4252 0 0 1 .2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178 2.1457L12 24l9.6954-5.5977-3.7178-2.1457-3.7996 2.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177 2.1456V5.5977L12.9288 0Z"/></symbol><symbol id="i-shield" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1l6 2v5c0 3.5-2.5 6-6 7-3.5-1-6-3.5-6-7V3Z"/></symbol><symbol id="i-brand:HLSL" viewBox="0 0 24 24"><path fill-rule="evenodd" d="m12.9288 4.2939 3.7997 2.1929c.1366.077.1415.2905 0 .3675l-4.515 2.6076a.4192.4192 0 0 1-.4246 0L7.274 6.8543c-.139-.0745-.1415-.293 0-.3675l3.7972-2.193V0L1.3758 5.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148 2.6076a.4252.4252 0 0 1 .2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178 2.1457L12 24l9.6954-5.5977-3.7178-2.1457-3.7996 2.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177 2.1456V5.5977L12.9288 0Z"/></symbol><symbol id="i-brand:JavaScript" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z"/></symbol>
 </defs>
 <path d="M18 4H416V262L402 276H4V18Z" fill="#ffffff"/>
-<path d="M18 4H416V40H4V18Z" fill="#eef3fb"/>
-<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#d5deee"/>
-<text x="210" y="27" class="wtitle" fill="#1f5fd6" text-anchor="middle">[ PASSIVE SKILLS ]</text>
-<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#6f8fc4" stroke-width="1.5"/>
-<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#1f5fd6" stroke-width="2"/>
-<text x="20" y="62" class="label" fill="#4a5a7c">MASTERY BY CODE SIZE</text>
-<text x="400" y="62" class="caption" fill="#4a5a7c" text-anchor="end">12 repos</text>
-<use href="#i-brand:C#" x="20" y="74" width="15" height="15" fill="#1f5fd6"/>
-<text x="44" y="86" class="body" fill="#0d1830">C#</text>
-<rect x="148" y="80" width="192" height="4" fill="#eef3fb"/>
-<rect class="grow" x="148" y="80" width="121.9" height="4" fill="#1f5fd6"/>
-<text x="400" y="86" class="caption" fill="#0d1830" text-anchor="end">63.5%</text>
-<use href="#i-brand:ShaderLab" x="20" y="102" width="15" height="15" fill="#0d1830"/>
-<text x="44" y="114" class="body" fill="#0d1830">ShaderLab</text>
-<rect x="148" y="108" width="192" height="4" fill="#eef3fb"/>
-<rect class="grow" x="148" y="108" width="31.3" height="4" fill="#1f5fd6"/>
-<text x="400" y="114" class="caption" fill="#0d1830" text-anchor="end">16.3%</text>
-<use href="#i-shield" x="20" y="130" width="15" height="15" fill="#0d1830"/>
-<text x="44" y="142" class="body" fill="#0d1830">Java</text>
-<rect x="148" y="136" width="192" height="4" fill="#eef3fb"/>
-<rect class="grow" x="148" y="136" width="16.1" height="4" fill="#1f5fd6"/>
-<text x="400" y="142" class="caption" fill="#0d1830" text-anchor="end">8.4%</text>
-<use href="#i-brand:HLSL" x="20" y="158" width="15" height="15" fill="#0d1830"/>
-<text x="44" y="170" class="body" fill="#0d1830">HLSL</text>
-<rect x="148" y="164" width="192" height="4" fill="#eef3fb"/>
-<rect class="grow" x="148" y="164" width="6.3" height="4" fill="#1f5fd6"/>
-<text x="400" y="170" class="caption" fill="#0d1830" text-anchor="end">3.3%</text>
-<use href="#i-brand:JavaScript" x="20" y="186" width="15" height="15" fill="#0d1830"/>
-<text x="44" y="198" class="body" fill="#0d1830">JavaScript</text>
-<rect x="148" y="192" width="192" height="4" fill="#eef3fb"/>
-<rect class="grow" x="148" y="192" width="5.6" height="4" fill="#1f5fd6"/>
-<text x="400" y="198" class="caption" fill="#0d1830" text-anchor="end">2.9%</text>
-<text x="20" y="234" class="body" fill="#4a5a7c">Class Holy Knight, awakened from C#</text>
-<text x="400" y="262" class="code" fill="#4a5a7c" text-anchor="end">@Towie1206 · SYNCED 2026-10-07</text>
+<path d="M18 4H416V40H4V18Z" fill="#f3f5f5"/>
+<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#e1e6e8"/>
+<text x="210" y="27" class="wtitle" fill="#0a78a0" text-anchor="middle">[ PASSIVE SKILLS ]</text>
+<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#6f95a3" stroke-width="1.5"/>
+<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#0a78a0" stroke-width="2"/>
+<text x="20" y="62" class="label" fill="#456b7b">MASTERY BY CODE SIZE</text>
+<text x="400" y="62" class="caption" fill="#456b7b" text-anchor="end">12 repos</text>
+<use href="#i-brand:C#" x="20" y="74" width="15" height="15" fill="#0a78a0"/>
+<text x="44" y="86" class="body" fill="#08303f">C#</text>
+<rect x="148" y="80" width="192" height="4" fill="#f3f5f5"/>
+<rect class="grow" x="148" y="80" width="121.9" height="4" fill="#0a78a0"/>
+<text x="400" y="86" class="caption" fill="#08303f" text-anchor="end">63.5%</text>
+<use href="#i-brand:ShaderLab" x="20" y="102" width="15" height="15" fill="#08303f"/>
+<text x="44" y="114" class="body" fill="#08303f">ShaderLab</text>
+<rect x="148" y="108" width="192" height="4" fill="#f3f5f5"/>
+<rect class="grow" x="148" y="108" width="31.3" height="4" fill="#0a78a0"/>
+<text x="400" y="114" class="caption" fill="#08303f" text-anchor="end">16.3%</text>
+<use href="#i-shield" x="20" y="130" width="15" height="15" fill="#08303f"/>
+<text x="44" y="142" class="body" fill="#08303f">Java</text>
+<rect x="148" y="136" width="192" height="4" fill="#f3f5f5"/>
+<rect class="grow" x="148" y="136" width="16.1" height="4" fill="#0a78a0"/>
+<text x="400" y="142" class="caption" fill="#08303f" text-anchor="end">8.4%</text>
+<use href="#i-brand:HLSL" x="20" y="158" width="15" height="15" fill="#08303f"/>
+<text x="44" y="170" class="body" fill="#08303f">HLSL</text>
+<rect x="148" y="164" width="192" height="4" fill="#f3f5f5"/>
+<rect class="grow" x="148" y="164" width="6.3" height="4" fill="#0a78a0"/>
+<text x="400" y="170" class="caption" fill="#08303f" text-anchor="end">3.3%</text>
+<use href="#i-brand:JavaScript" x="20" y="186" width="15" height="15" fill="#08303f"/>
+<text x="44" y="198" class="body" fill="#08303f">JavaScript</text>
+<rect x="148" y="192" width="192" height="4" fill="#f3f5f5"/>
+<rect class="grow" x="148" y="192" width="5.6" height="4" fill="#0a78a0"/>
+<text x="400" y="198" class="caption" fill="#08303f" text-anchor="end">2.9%</text>
+<text x="20" y="234" class="body" fill="#456b7b">Class Holy Knight, awakened from C#</text>
+<text x="400" y="262" class="code" fill="#456b7b" text-anchor="end">@Towie1206 · SYNCED 2026-10-07</text>
 </svg>
