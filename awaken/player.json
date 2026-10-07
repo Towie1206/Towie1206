@@ -2,20 +2,20 @@
   "login": "Towie1206",
   "level": 6,
   "overall": "C",
-  "overallPercentile": 0.6024540399917422,
-  "layout": "default",
+  "overallPercentile": 0.6030619181415586,
+  "layout": "bento",
   "class": {
     "name": "Holy Knight",
     "element": "Light",
     "from": "C#"
   },
-  "title": "Veteran",
+  "title": "Night Owl",
   "stats": [
     {
       "code": "STR",
-      "value": 192,
+      "value": 198,
       "rank": "B",
-      "percentile": 0.8097286998864818
+      "percentile": 0.8150537901758261
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 192
+      "value": 198
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 41
+      "value": 43
     },
     {
       "id": "early-bird",
@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 40
+      "value": 39
     },
     {
       "id": "gate-opener",
@@ -195,5 +195,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-07T19:53:38.171Z"
+  "syncedAt": "2026-10-07T20:49:21.124Z"
 }
