@@ -1,24 +1,122 @@
 {
   "username": "Towie1206",
-  "layout": "default",
-  "theme": "frost_elf",
-  "activity": "raid",
-  "timezone": "Asia/Ho_Chi_Minh",
-  "icons": "brand",
+  "layout": "bento",
+  "theme": "solo_leveling",
+  "title": "night-owl",
+  "activity": "arise",
+  "icons": "rune",
   "motion": "full",
-  "arsenal": [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Node.js",
-    "Python",
-    "Docker",
-    "Git",
-    "TailwindCSS"
+  "timezone": "Asia/Ho_Chi_Minh",
+  "hours": true,
+  "banner": {
+    "style": "typewriter",
+    "lines": [
+      "Player billtruong003 has logged in.",
+      "Unity Engineer · Games, XR & Tools",
+      "Shmackle VR on Meta Quest · NVIDIA Omniverse digital twin",
+      "Taking on freelance projects · billthedev.com"
+    ]
+  },
+  "bio": {
+    "role": "Unity Engineer · Games",
+    "focus": "Gameplay, multiplayer",
+    "location": "Ha Noi",
+    "about": "Making a stupid game until I die of poverty"
+  },
+  "career": [
   ],
+  "cv": "",
   "socials": [
-    { "type": "linkedin", "url": "https://www.linkedin.com/in/c%C3%B4ng-b%E1%BA%B1ng-nguy%E1%BB%85n-821565332/", "label": "LinkedIn" },
-    { "type": "facebook", "url": "https://www.facebook.com/anhbang.buonba/?locale=vi_VN", "label": "Facebook" },
-    { "type": "email", "url": "mailto:ncongbang2006@gmail.com", "label": "Email" }
+    {
+      "type": "website",
+      "url": "",
+      "label": ""
+    },
+    {
+      "type": "email",
+      "url": "mailto:ncongbang2006@gmail.com",
+      "label": "ncongbang2006@gmail.com"
+    },
+    {
+      "type": "linkedin",
+      "url": "",
+      "label": ""
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/Towie1206",
+      "label": "Towie1206"
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/@notTowie1012",
+      "label": "@notTowie1012"
+    },
+    {
+      "type": "itchdotio",
+      "url": "https://towie1206.itch.io/",
+      "label": "towie1206"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/anhbang.buonba",
+      "label": "Nguyen Cong Bang"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/ang_bangf/",
+      "label": "ang_bangf"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.com/users/461885838071037997",
+      "label": "siNoa"
+    }
+  ],
+  "arsenal": [
+    "Unity",
+    "C#",
+    "Blender",
+    "C++",
+    "C",
+    "Git",
+    "GitHub",
+    "Figma"
+  ],
+  "spotlight": [
+    "",
+    ""
+  ],
+  "feeds": [
+    ""
+  ],
+  "quotes": [
+    "dry",
+    {
+      "text": "Nếu mệt mỏi vì tình yêu hãy làm chóNếu áp lực gia đình hãy làm chó Nếu áp lực học hành hãy làm chó Nếu áp lực tiền bạc hãy làm chóT MUỐN LÀM CHÓ DT M CUỘC ĐỜI D*O CÔNG BẰNG TỪ LÚC SINH RA ",
+      "author": "Towie"
+    }
+  ],
+  "bento": [
+    [
+      "hunter"
+    ],
+    [
+      "bio",
+      "career",
+      "web"
+    ],
+    [
+      "arsenal",
+      "daily"
+    ],
+    [
+      "activity",
+      "oracle"
+    ],
+    [
+      "spotlight",
+      "board"
+    ]
   ]
 }
