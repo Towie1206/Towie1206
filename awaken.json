@@ -11,19 +11,25 @@
   "banner": {
     "style": "typewriter",
     "lines": [
-      "Player billtruong003 has logged in.",
-      "Unity Engineer · Games, XR & Tools",
-      "Shmackle VR on Meta Quest · NVIDIA Omniverse digital twin",
-      "Taking on freelance projects · billthedev.com"
+      "Player Towie1206 has logged in.",
+      "Game Developer · Unity, C++ & Indie Games",
+      "Making games until I die of poverty",
+      "Ha Noi, Vietnam"
     ]
   },
   "bio": {
-    "role": "Unity Engineer · Games",
+    "role": "Unity Engineer · Game Developer",
     "focus": "Gameplay, multiplayer",
-    "location": "Ha Noi",
+    "location": "Ha Noi, Vietnam",
     "about": "Making a stupid game until I die of poverty"
   },
   "career": [
+    {
+      "role": "Indie Game Developer",
+      "org": "Solo Projects",
+      "years": "2024 – now",
+      "current": true
+    }
   ],
   "cv": "",
   "socials": [
