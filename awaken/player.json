@@ -1,8 +1,8 @@
 {
   "login": "Towie1206",
   "level": 6,
-  "overall": "C",
-  "overallPercentile": 0.7263209109491798,
+  "overall": "B",
+  "overallPercentile": 0.8404336693073965,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 205,
+      "value": 206,
       "rank": "B",
-      "percentile": 0.8209564108632098
+      "percentile": 0.8217738137125628
     },
     {
       "code": "AGI",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 1,
+      "rank": "B",
+      "percentile": 0.7912280168701755
     },
     {
       "code": "CHA",
@@ -49,6 +49,20 @@
     }
   ],
   "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "C",
+      "to": "B",
+      "at": "2026-10-14T20:42:12.292Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "LUK",
+      "from": "E",
+      "to": "B",
+      "at": "2026-10-14T20:42:12.292Z"
+    },
     {
       "kind": "stat",
       "subject": "INT",
@@ -90,7 +104,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 205
+      "value": 206
     },
     {
       "id": "unbroken",
@@ -105,7 +119,7 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "weekend-warrior",
@@ -140,7 +154,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "beacon",
@@ -165,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 91
+      "value": 92
     },
     {
       "id": "daily-grinder",
@@ -180,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 16
+      "value": 17
     },
     {
       "id": "boss-slayer",
@@ -200,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-14",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-13",
         "cleared": 3,
@@ -237,9 +256,9 @@
       }
     ],
     "perfectDays": 3,
-    "run": 2,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 16,
+    "questsDone": 17,
     "bosses": [
       "2026-10-05"
     ],
@@ -251,5 +270,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-10-13T21:48:14.192Z"
+  "syncedAt": "2026-10-14T20:42:12.292Z"
 }
