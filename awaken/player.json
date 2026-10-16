@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.8405802213844673,
+  "overallPercentile": 0.8408712432262117,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 207,
+      "value": 209,
       "rank": "B",
-      "percentile": 0.822584975251752
+      "percentile": 0.824188850499453
     },
     {
       "code": "AGI",
@@ -62,27 +62,6 @@
       "from": "E",
       "to": "B",
       "at": "2026-10-14T20:42:12.292Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "INT",
-      "from": "E",
-      "to": "B",
-      "at": "2026-10-08T22:00:13.795Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-08T22:00:13.795Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-08T22:00:13.795Z"
     }
   ],
   "achievements": [
@@ -104,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 207
+      "value": 209
     },
     {
       "id": "unbroken",
@@ -124,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 38
+      "value": 37
     },
     {
       "id": "gate-opener",
@@ -179,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 93
+      "value": 94
     },
     {
       "id": "daily-grinder",
@@ -194,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 19
+      "value": 21
     },
     {
       "id": "boss-slayer",
@@ -209,11 +188,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 5
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-16",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-15",
         "cleared": 2,
@@ -263,7 +247,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 19,
+    "questsDone": 21,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -274,8 +258,9 @@
       "streak",
       "commit",
       "issue",
-      "mp"
+      "mp",
+      "three"
     ]
   },
-  "syncedAt": "2026-10-15T20:17:10.190Z"
+  "syncedAt": "2026-10-16T19:54:21.811Z"
 }
