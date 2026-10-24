@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.8413026676881538,
+  "overallPercentile": 0.8414451389880655,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 212,
+      "value": 213,
       "rank": "B",
-      "percentile": 0.8265495526649985
+      "percentile": 0.8273246860379014
     },
     {
       "code": "AGI",
@@ -48,7 +48,15 @@
       "percentile": 0.7154979269401185
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "night-owl",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-24T19:25:10.648Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 212
+      "value": 213
     },
     {
       "id": "unbroken",
@@ -77,8 +85,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 2,
-      "value": 44
+      "tier": 3,
+      "value": 45
     },
     {
       "id": "early-bird",
@@ -88,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 37
+      "value": 38
     },
     {
       "id": "gate-opener",
@@ -143,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 97
+      "value": 98
     },
     {
       "id": "daily-grinder",
@@ -158,12 +166,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 27
+      "value": 28
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-24",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-23",
         "cleared": 1,
@@ -267,8 +280,9 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 27,
+    "questsDone": 28,
     "bosses": [
+      "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
@@ -282,5 +296,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-23T20:20:43.216Z"
+  "syncedAt": "2026-10-24T19:25:10.648Z"
 }
