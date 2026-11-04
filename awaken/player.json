@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.842561715687387,
+  "overallPercentile": 0.8550591460257847,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 221,
+      "value": 222,
       "rank": "B",
-      "percentile": 0.8333229115397182
+      "percentile": 0.8340482262021196
     },
     {
       "code": "AGI",
@@ -31,30 +31,30 @@
     },
     {
       "code": "VIT",
-      "value": 13,
+      "value": 14,
       "rank": "S",
-      "percentile": 0.9697425344997549
+      "percentile": 0.9762310688639344
     },
     {
       "code": "LUK",
-      "value": 1,
+      "value": 3,
       "rank": "B",
-      "percentile": 0.7912280168701755
+      "percentile": 0.8392329308802627
     },
     {
       "code": "CHA",
-      "value": 2,
-      "rank": "C",
-      "percentile": 0.7154979269401185
+      "value": 4,
+      "rank": "B",
+      "percentile": 0.7863688755764323
     }
   ],
   "events": [
     {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-28T21:37:18.328Z"
+      "kind": "stat",
+      "subject": "CHA",
+      "from": "C",
+      "to": "B",
+      "at": "2026-11-04T22:32:41.388Z"
     }
   ],
   "achievements": [
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 221
+      "value": 222
     },
     {
       "id": "unbroken",
@@ -86,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 46
+      "value": 45
     },
     {
       "id": "early-bird",
@@ -101,7 +101,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 11
+      "value": 12
     },
     {
       "id": "raider",
@@ -126,12 +126,12 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 1
+      "value": 3
     },
     {
       "id": "beacon",
       "tier": 0,
-      "value": 2
+      "value": 4
     },
     {
       "id": "guild-hopper",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 102
+      "value": 103
     },
     {
       "id": "daily-grinder",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 43
+      "value": 45
     },
     {
       "id": "boss-slayer",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-04",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-03",
         "cleared": 1,
@@ -330,7 +335,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 43,
+    "questsDone": 45,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -347,5 +352,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-03T22:15:44.166Z"
+  "syncedAt": "2026-11-04T22:32:41.388Z"
 }
