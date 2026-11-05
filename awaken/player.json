@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-05T22:38:41.782Z"
+    },
+    {
       "kind": "stat",
       "subject": "CHA",
       "from": "C",
@@ -166,12 +173,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 45
+      "value": 47
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "escape-artist",
@@ -180,12 +187,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 6
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-05",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-04",
         "cleared": 2,
@@ -335,8 +347,9 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 45,
+    "questsDone": 47,
     "bosses": [
+      "2026-11-02",
       "2026-10-26",
       "2026-10-19",
       "2026-10-12",
@@ -349,8 +362,9 @@
       "commit",
       "issue",
       "mp",
-      "three"
+      "three",
+      "average"
     ]
   },
-  "syncedAt": "2026-11-04T22:32:41.388Z"
+  "syncedAt": "2026-11-05T22:38:41.782Z"
 }
