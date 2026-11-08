@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.855185546656639,
+  "overallPercentile": 0.8555614197812695,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 223,
+      "value": 226,
       "rank": "B",
-      "percentile": 0.8347682950238114
+      "percentile": 0.8368975721524683
     },
     {
       "code": "AGI",
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 223
+      "value": 226
     },
     {
       "id": "unbroken",
@@ -100,7 +100,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 45
+      "value": 46
     },
     {
       "id": "early-bird",
@@ -165,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 104
+      "value": 105
     },
     {
       "id": "daily-grinder",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 52
+      "value": 54
     },
     {
       "id": "boss-slayer",
@@ -195,11 +195,16 @@
     {
       "id": "collector",
       "tier": 2,
-      "value": 7
+      "value": 8
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-08",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-07",
         "cleared": 2,
@@ -364,7 +369,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 52,
+    "questsDone": 54,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -380,8 +385,9 @@
       "issue",
       "mp",
       "three",
-      "average"
+      "average",
+      "two-repos"
     ]
   },
-  "syncedAt": "2026-11-07T20:49:38.390Z"
+  "syncedAt": "2026-11-08T21:05:05.182Z"
 }
