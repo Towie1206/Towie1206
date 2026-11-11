@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.8565401709996284,
+  "overallPercentile": 0.8597228176275675,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 234,
+      "value": 240,
       "rank": "B",
-      "percentile": 0.8423580124252844
+      "percentile": 0.8462572819030647
     },
     {
       "code": "AGI",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 3,
+      "value": 4,
       "rank": "B",
-      "percentile": 0.8392329308802627
+      "percentile": 0.8569497464419764
     },
     {
       "code": "CHA",
@@ -62,13 +62,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-11-05T22:38:41.782Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "CHA",
-      "from": "C",
-      "to": "B",
-      "at": "2026-11-04T22:32:41.388Z"
     }
   ],
   "achievements": [
@@ -90,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 234
+      "value": 240
     },
     {
       "id": "unbroken",
@@ -110,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 37
+      "value": 36
     },
     {
       "id": "gate-opener",
@@ -140,7 +133,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "beacon",
@@ -165,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 107
+      "value": 108
     },
     {
       "id": "daily-grinder",
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 56
+      "value": 57
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-11",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-10",
         "cleared": 1,
@@ -379,7 +377,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 56,
+    "questsDone": 57,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -399,5 +397,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-10T22:18:10.790Z"
+  "syncedAt": "2026-11-11T23:25:27.365Z"
 }
