@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.8604828432665347,
+  "overallPercentile": 0.8613955533956978,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 246,
+      "value": 253,
       "rank": "B",
-      "percentile": 0.8499993988366173
+      "percentile": 0.8541785469210964
     },
     {
       "code": "AGI",
@@ -48,15 +48,7 @@
       "percentile": 0.7863688755764323
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "quest-hunter",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-06T22:00:27.575Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -76,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 246
+      "value": 253
     },
     {
       "id": "unbroken",
@@ -86,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 47
+      "value": 45
     },
     {
       "id": "early-bird",
@@ -96,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 35
+      "value": 34
     },
     {
       "id": "gate-opener",
@@ -151,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 109
+      "value": 110
     },
     {
       "id": "daily-grinder",
@@ -166,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 59
+      "value": 61
     },
     {
       "id": "boss-slayer",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 2,
@@ -375,7 +372,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 59,
+    "questsDone": 61,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -396,5 +393,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-12T22:40:51.375Z"
+  "syncedAt": "2026-11-13T22:30:56.379Z"
 }
