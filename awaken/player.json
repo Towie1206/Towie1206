@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.8615238995837708,
+  "overallPercentile": 0.8596962034420385,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 254,
+      "value": 260,
       "rank": "B",
-      "percentile": 0.8547598852214652
+      "percentile": 0.8581691575708439
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 14,
+      "value": 13,
       "rank": "S",
-      "percentile": 0.9762310688639344
+      "percentile": 0.9697425344997549
     },
     {
       "code": "LUK",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 254
+      "value": 260
     },
     {
       "id": "unbroken",
@@ -96,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 33
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -151,12 +151,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 110
+      "value": 112
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "perfect-week",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 65
+      "value": 68
     },
     {
       "id": "boss-slayer",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-16",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-15",
         "cleared": 2,
@@ -387,10 +392,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 4,
-    "run": 0,
+    "perfectDays": 5,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 65,
+    "questsDone": 68,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -411,5 +416,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-15T21:41:03.803Z"
+  "syncedAt": "2026-11-17T00:44:42.853Z"
 }
