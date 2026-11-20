@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.8611179714244896,
+  "overallPercentile": 0.861237468461046,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 272,
+      "value": 273,
       "rank": "B",
-      "percentile": 0.8646056982877559
+      "percentile": 0.8651203896535568
     },
     {
       "code": "AGI",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "daily-grinder",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-20T23:02:22.264Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "6",
@@ -76,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 272
+      "value": 273
     },
     {
       "id": "unbroken",
@@ -86,7 +93,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 49
+      "value": 48
     },
     {
       "id": "early-bird",
@@ -96,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 30
     },
     {
       "id": "gate-opener",
@@ -151,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 114
+      "value": 115
     },
     {
       "id": "daily-grinder",
-      "tier": 0,
-      "value": 6
+      "tier": 1,
+      "value": 7
     },
     {
       "id": "perfect-week",
@@ -166,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 75
+      "value": 78
     },
     {
       "id": "boss-slayer",
@@ -186,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 2,
@@ -407,10 +419,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 6,
-    "run": 0,
+    "perfectDays": 7,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 75,
+    "questsDone": 78,
     "bosses": [
       "2026-11-16",
       "2026-11-09",
@@ -432,5 +444,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-19T23:30:05.053Z"
+  "syncedAt": "2026-11-20T23:02:22.264Z"
 }
