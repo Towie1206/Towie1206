@@ -2,7 +2,7 @@
   "login": "Towie1206",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.8619454857808528,
+  "overallPercentile": 0.8625240905764326,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 279,
-      "rank": "B",
-      "percentile": 0.8681423775426279
+      "value": 284,
+      "rank": "A",
+      "percentile": 0.8705770695313341
     },
     {
       "code": "AGI",
@@ -50,11 +50,11 @@
   ],
   "events": [
     {
-      "kind": "achievement",
-      "subject": "daily-grinder",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-20T23:02:22.264Z"
+      "kind": "stat",
+      "subject": "STR",
+      "from": "B",
+      "to": "A",
+      "at": "2026-11-28T00:29:02.419Z"
     }
   ],
   "achievements": [
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 279
+      "value": 284
     },
     {
       "id": "unbroken",
@@ -86,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 49
+      "value": 48
     },
     {
       "id": "early-bird",
@@ -151,12 +151,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 119
+      "value": 120
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 7
+      "value": 8
     },
     {
       "id": "perfect-week",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 87
+      "value": 90
     },
     {
       "id": "boss-slayer",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 1,
@@ -442,10 +447,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 7,
-    "run": 0,
+    "perfectDays": 8,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 87,
+    "questsDone": 90,
     "bosses": [
       "2026-11-23",
       "2026-11-16",
@@ -468,5 +473,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-27T00:59:06.129Z"
+  "syncedAt": "2026-11-28T00:29:02.419Z"
 }
